@@ -19,7 +19,7 @@ LAB SETUP INSTRUCTIONS
 
 3. Start the front server server from this path: 7-2-RESTFul-APIs-main\7-2-restful-api\client:
    Run:
-      npm run dev
+      npm run dev 
 
 4. Start the back-end server from a separate terminal, path: 7-2-RESTFul-APIs-main\7-2-restful-api\server:
     Run command to install express, cors, mongoose dotenv:
